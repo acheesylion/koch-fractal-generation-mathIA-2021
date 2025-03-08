@@ -6,9 +6,9 @@ This was for November 2021 International Baccalaureate Diploma Programme, Higher
 # kochfractalgeneration.py
 
 Koch Fractal Generation is a Python file containing the KochFractal Class. \
-The purpose of this Class is to the generate general koch fractal. \
+The purpose of this Class is to the generate general koch fractals. \
 It does so using the Class KochFractal and its different subclasses. \
-The different SubClasses determine how the new points are generated.
+The different SubClasses determine how new points are generated.
 
 ## Installation
 
