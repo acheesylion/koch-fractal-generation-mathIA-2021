@@ -1,3 +1,7 @@
+# Background
+The following library is an aid in my research paper, "Investigating how to generate a Koch snowflake fractal, and how this can be used to find a
+general form of the fractal". This was for November 2021 International Baccalaureate Diploma programme, Higher Level Mathematics Internal Assessment.
+
 # kochfractalgeneration
 
 Koch Fractal Generation is a Python Class to aid in the generation of general koch fractal functions
