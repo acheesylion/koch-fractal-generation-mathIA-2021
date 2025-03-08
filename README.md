@@ -1,10 +1,13 @@
 # Background
-The following library is an aid in my research paper, "Investigating how to generate a Koch snowflake fractal, and how this can be used to find a
+The following Python file is an aid in my research paper, "Investigating how to generate a Koch snowflake fractal, and how this can be used to find a
 general form of the fractal". This was for November 2021 International Baccalaureate Diploma programme, Higher Level Mathematics Internal Assessment.
 
-# kochfractalgeneration
+# kochfractalgeneration.py
 
-Koch Fractal Generation is a Python Class to aid in the generation of general koch fractal functions
+Koch Fractal Generation is a Python file containing the KochFractal Class
+The purpose of this Class is to the generate general koch fractal.
+It does so using the Class KochFractal and its different subclasses.
+The different SubClasses determine how the new points are generated.
 
 ## Installation
 
